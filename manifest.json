@@ -1,6 +1,6 @@
 {
   "name": "My Wardrob",
-  "short_name": "衣橱",
+  "short_name": "My Wardrob",
   "description": "再买衣服就剁手",
   "start_url": "./index.html",
   "display": "standalone",
