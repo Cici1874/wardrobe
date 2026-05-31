@@ -1,7 +1,7 @@
 {
-  "name": "衣橱利用率",
+  "name": "My Wardrob",
   "short_name": "衣橱",
-  "description": "追踪你的衣服利用率",
+  "description": "再买衣服就剁手",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#F5F0EB",
